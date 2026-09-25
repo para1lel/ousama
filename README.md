@@ -36,3 +36,7 @@ A: 你可以在仓库的 Issues 反馈. 对于技术性问题, 请给出尽量�
 
 - 修复选择肢标签名导致跳转报错的问题.
 - 添加 11 个特典宣传场景, 点击 "回想" 页面的最后一个路线以观赏.
+- 主播模式: 将 [patch2-streaming.xp3](https://github.com/para1lel/ousama/releases/download/v0.2/patch2-streaming.xp3) 放置于游戏目录, 重命名为 `patch2.xp3`.
+  - 它将 53 张 CG 及其 570 张变体覆盖为黑图, 并且隐藏裸体立绘.
+- 校对模式: 将 [patch2-bilingual.xp3](https://github.com/para1lel/ousama/releases/download/v0.2/patch2-bilingual.xp3) 放置于游戏目录, 重命名为 `patch2.xp3`.
+  - 它在左上角同步显示日文原文的台词和独白.
