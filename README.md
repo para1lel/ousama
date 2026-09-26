@@ -40,3 +40,8 @@ A: 你可以在仓库的 Issues 反馈. 对于技术性问题, 请给出尽量�
   - 它将 53 张 CG 及其 570 张变体覆盖为黑图, 并且隐藏裸体立绘.
 - 校对模式: 将 [patch2-bilingual.xp3](https://github.com/para1lel/ousama/releases/download/v0.2/patch2-bilingual.xp3) 放置于游戏目录, 重命名为 `patch2.xp3`.
   - 它在左上角同步显示日文原文的台词和独白.
+
+### 2029-09-26 v0.3
+
+- 将主播模式和校对模式集成在单个 [patch.xp3](https://github.com/para1lel/ousama/releases/download/v0.3/patch.xp3) 中, 支持在设置页面开启.
+- 支持按 F9 将游戏画面覆盖为黑屏, 再按 F9 切换为正常显示.
