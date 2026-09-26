@@ -18,6 +18,8 @@
 
 以 [Tyranor 模拟器](https://www.tyranoremu.com/) 为例, 你可以将游戏的全部资源文件打包为单个 `data.xp3`, 然后在仓库的 Releases 下载最新的 `patch.xp3`, 将这两个文件放在同一目录下, 使用 Tyranor 模拟器打开这个目录, 启动 `data.xp3` 即可.
 
+v0.3 的整合补丁暂时不支持移动端, 推荐使用 [v0.2](https://github.com/para1lel/ousama/releases/tag/v0.2) 版本的补丁.
+
 ## Q & A
 
 Q: 这个补丁使用的是什么字体? 怎么切换字体?  
@@ -41,7 +43,7 @@ A: 你可以在仓库的 Issues 反馈. 对于技术性问题, 请给出尽量�
 - 校对模式: 将 [patch2-bilingual.xp3](https://github.com/para1lel/ousama/releases/download/v0.2/patch2-bilingual.xp3) 放置于游戏目录, 重命名为 `patch2.xp3`.
   - 它在左上角同步显示日文原文的台词和独白.
 
-### 2029-09-26 v0.3
+### 2026-09-26 v0.3
 
 - 将主播模式和校对模式集成在单个 [patch.xp3](https://github.com/para1lel/ousama/releases/download/v0.3/patch.xp3) 中, 支持在设置页面开启.
 - 支持按 F9 将游戏画面覆盖为黑屏, 再按 F9 切换为正常显示.
